@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://staffingsolutions.co.in/sitemap.xml
